@@ -9,9 +9,6 @@
 		double radius =sc.nextDouble();
 
 		double area= Math.PI * (radius*radius);
-		double halfArea= area/2;
-		System.out.println("The area of the circle is: 
-"+area);
-		System.out.println("Half of the area of the circle is: " +halfArea);
+		System.out.println("The area of the circle is: "+area);
 	}
 }
